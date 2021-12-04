@@ -1,0 +1,21 @@
+.box{
+    width: 80%;
+    background-color: grey;
+    border-radius: 15px;
+}
+.skill{
+    background-color: rgb(116, 194, 92);
+    color: white;
+    text-align: right;
+    border-radius: 15px;
+    padding: 4px;
+}
+
+.html{
+    width: 80%;
+}
+
+.php{
+    width: 60%;
+}
+
