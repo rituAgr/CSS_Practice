@@ -1,0 +1,14 @@
+.table {
+    font-size: 20px;
+    width: 50%;
+    text-align: center;
+    height: 200px;
+    border-collapse: collapse;
+}
+.tr {
+    background-color: darkgreen;
+    color: white;
+}
+.tbody {
+    border-top: 25px solid #2e802e;
+}
